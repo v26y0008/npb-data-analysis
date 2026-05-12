@@ -21,9 +21,13 @@ Python(Requests,BeautifulSoup)を用いたWebスクレイピング。
 
 # 5.ディレクトリ構成
 README.md
-requirements.txt
+
 data/
+
  └ npb_2022_full.csv
+ 
  └ npb_2026_full.csv
+
 notebooks/
+
  └ scrape_npb.py
