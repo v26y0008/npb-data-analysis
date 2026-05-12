@@ -25,8 +25,6 @@ README.md
 data/
 
  └ npb_2022_full.csv
- 
- └ npb_2026_full.csv
 
 notebooks/
 
